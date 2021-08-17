@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "predicates",
+    "type": "java.lang.String",
+    "description": "A description for 'predicates'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "cloud",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud'"
+  },
+  {
+    "name": "gateway",
+    "type": "java.lang.String",
+    "description": "A description for 'gateway'"
+  },
+  {
+    "name": "routes",
+    "type": "java.lang.String",
+    "description": "A description for 'routes'"
+  },
+  {
+    "name": "-",
+    "type": "java.lang.String",
+    "description": "A description for '-'"
+  },
+  {
+    "name": "uri",
+    "type": "java.lang.String",
+    "description": "A description for 'uri'"
+  }
+]}
